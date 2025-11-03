@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 貪食蛇遊戲 (Greedy Snake Game)",
+  "description": "一個經典的貪食蛇遊戲，玩家控制一條不斷增長的蛇來吃食物並避開障礙物。A classic snake game where the player controls a growing snake to eat food and avoid collisions.",
+  "requestFramePermissions": []
+}
